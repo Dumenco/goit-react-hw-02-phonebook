@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "//dumenco.github.io/goit-react-hw-02-phonebook/static/css/main.74613879.chunk.css",
+    "main.js": "//dumenco.github.io/goit-react-hw-02-phonebook/static/js/main.f9472b6a.chunk.js",
+    "main.js.map": "//dumenco.github.io/goit-react-hw-02-phonebook/static/js/main.f9472b6a.chunk.js.map",
+    "runtime-main.js": "//dumenco.github.io/goit-react-hw-02-phonebook/static/js/runtime-main.219414b5.js",
+    "runtime-main.js.map": "//dumenco.github.io/goit-react-hw-02-phonebook/static/js/runtime-main.219414b5.js.map",
+    "static/js/2.0e0d17f3.chunk.js": "//dumenco.github.io/goit-react-hw-02-phonebook/static/js/2.0e0d17f3.chunk.js",
+    "static/js/2.0e0d17f3.chunk.js.map": "//dumenco.github.io/goit-react-hw-02-phonebook/static/js/2.0e0d17f3.chunk.js.map",
+    "index.html": "//dumenco.github.io/goit-react-hw-02-phonebook/index.html",
+    "precache-manifest.7bd5c2f2f07c8337cbb970b78b0ad051.js": "//dumenco.github.io/goit-react-hw-02-phonebook/precache-manifest.7bd5c2f2f07c8337cbb970b78b0ad051.js",
+    "service-worker.js": "//dumenco.github.io/goit-react-hw-02-phonebook/service-worker.js",
+    "static/css/main.74613879.chunk.css.map": "//dumenco.github.io/goit-react-hw-02-phonebook/static/css/main.74613879.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.219414b5.js",
+    "static/js/2.0e0d17f3.chunk.js",
+    "static/css/main.74613879.chunk.css",
+    "static/js/main.f9472b6a.chunk.js"
+  ]
+}
